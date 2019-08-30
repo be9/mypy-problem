@@ -9,3 +9,6 @@ def foo() -> None:
     book_campaign()
     reserve_campaign()
     cancel_campaign()
+
+
+foo()
